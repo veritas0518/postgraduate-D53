@@ -1,0 +1,2 @@
+# postgraduate-D53
+Today is an ordinary day to tell the truth, but I still feel a little difficult in learning the usage of. Equals() and the usage of = =. I feel that it's really difficult to take the road of engineer. There are many things to learn, and you basically have to be able to do it, but I don't know how far this "meeting" will go. The revision of the recommendation letter was sent to me today, but to tell you the truth, I feel that it's average. I have to choose courses tomorrow. It's really troublesome.
